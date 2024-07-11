@@ -2,3 +2,4 @@ tensorflow
 numpy
 streamlit
 PIL
+pip install --upgrade pip
